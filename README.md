@@ -1,4 +1,4 @@
-# To-Do List App
+# To-Do List App🚀
 
 # Overview
 
@@ -18,18 +18,18 @@ Cross-Platform Compatibility: Access your to-do list from various devices.
 
 1. Add a Task:
 
-. Click on the "Search Box".
-. Enter the task details and click on "Add Button."
+ . Click on the "Search Box".
+ . Enter the task details and click on "Add Button."
 
 2. Completed Task or Delete a Task:
 
-. Hover over a task and click on the respective icons.
+ . Hover over a task and click on the respective icons.
 
 3. Set Due Dates and Priorities:
 
-. Click on a task to view details.
-. Set due dates and priorities accordingly.
+ . Click on a task to view details.
+ . Set due dates and priorities accordingly.
 
 4. Organize Tasks into Categories:
 
-. Create categories and assign tasks to them.
+ . Create categories and assign tasks to them.
